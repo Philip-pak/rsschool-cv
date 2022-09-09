@@ -12,7 +12,6 @@
 ### **About Me**
 ---
 *I'm a line operator at the Santa Bremor factory. He graduated from the Brest Polytechnic College (BGPK) as a technologist in 2022. Now I am studying at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as a mobile systems programmer. Actively taking a Front-end developer course*
-
 ### **Skills**
 ---
 * *HTML*
@@ -21,7 +20,6 @@
 * *GIT*
 * *Kotlin*
 * *AutoCAD, Altium Designer and some Solidworks*
-
 ### **Code examples**
 *task from codewars:*
 ```
@@ -38,6 +36,5 @@ a * b
 2. **Sales Manager** in progress...
 ### **Level of language**
 ---
-* Russian (carrier)
+* Russian (native)
 * English (A2)
-
