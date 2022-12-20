@@ -3,7 +3,7 @@
 ### **Contacts**
 ***
 * #### **Location:**  _Belarus, Brest_
-* #### **Phone:** _+375148841422_
+* #### **Phone:** _+375297072004_
 * #### **E-mail:** _overname2002@gmail.com_
 * #### **Telegram:** _[@Philip_PR](https://t.me/Philip_PR)_
 * #### **GitHub:** _[Philip-pak](https://github.com/Philip-pak)_
@@ -20,16 +20,13 @@
 * *GIT*
 * *Kotlin*
 * *AutoCAD, Altium Designer and some Solidworks*
-### **Code examples**
-*task from codewars:*
-```
-def multiply(a, b):
-a * b
-```
+* *C++ windows applications*
+* *Node JS, React native*
+
 ### **Education**
 ***
-- [x] *Brest State Technical University Polytechnic College (BGPK)* **graduate**
-- [ ] *Belarusian State University of Informatics and Radioelectronics (BSUIR)*  **1 course**
+- [x] *Brest State Technical University Polytechnic College (BGPK, Brest)* **graduate**
+- [ ] *Belarusian State University of Informatics and Radioelectronics (BSUIR, Minsk)*  **1 course**
 ### **Courses**
 ---
 1. **Rolling Scopes School** JS/Front-end developer (stage 1)...
