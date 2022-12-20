@@ -22,6 +22,7 @@
 * *AutoCAD, Altium Designer and some Solidworks*
 * *C++ windows applications*
 * *Node JS, React native*
+* *SCSS, SASS*
 
 ### **Education**
 ***
@@ -31,7 +32,8 @@
 ---
 1. **Rolling Scopes School** JS/Front-end developer (stage 1)...
 2. **Sales Manager** in progress...
+3. **English courses
 ### **Level of language**
 ---
 * Russian (native)
-* English (A2)
+* English (B1)
