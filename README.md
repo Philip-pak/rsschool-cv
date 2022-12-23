@@ -1,2 +1,2 @@
 
-https://elijah-i.github.io/rsschool-cv/
+https://philip-pak.github.io/rsschool-cv/
