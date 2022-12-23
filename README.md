@@ -1,2 +1,3 @@
 # rsschool-cv
-### [CV#1. Markdown & Git](https://philip-pak.github.io/rsschool-cv/cv)
+
+### [CV#2. HTML, CSS & Git Basics](https://github.com/Philip-pak/rsschool-cv/)
