@@ -1,40 +1,54 @@
-## [rsschol-cv]()
-***
-### **Contacts**
-***
-* #### **Location:**  _Belarus, Brest_
-* #### **Phone:** _+375148841422_
-* #### **E-mail:** _overname2002@gmail.com_
-* #### **Telegram:** _[@Philip_PR](https://t.me/Philip_PR)_
-* #### **GitHub:** _[Philip-pak](https://github.com/Philip-pak)_
-* #### **Discord:** _Philip Pakhomov (@philip-pak)_
-![](https://i.ibb.co/cy4wFpH/20220811-135755.jpg)
-### **About Me**
----
-*I'm a line operator at the Santa Bremor factory. He graduated from the Brest Polytechnic College (BGPK) as a technologist in 2022. Now I am studying at the Belarusian State University of Informatics and Radioelectronics (BSUIR) as a mobile systems programmer. Actively taking a Front-end developer course*
-### **Skills**
----
-* *HTML*
-* *CSS*
-* *JS*
-* *GIT*
-* *Kotlin*
-* *AutoCAD, Altium Designer and some Solidworks*
-### **Code examples**
-*task from codewars:*
+# Ivanik Ilia
+
+<img src="img/avatar.jpg" alt="avatar" width="210" style="margin-bottom: 20px;"/>
+
+## Contacts
+telegram: **@Elijah_I**
+<br />
+Email: **elferno@inbox.ru**
+<br />
+Phone: **+7 922 021 08 05**
+<br />
+Discord: **Elijah-I (@Elijah-I)**
+
+## About me
+I've been programming since I was 18. Have a wide expirience in PHP, JS, HTML, CSS, MySQL. Been working a lot so usually had no time for education. Today my main goal is to catch up modern technology stack and approach to programming. Looking forward for: React + Redux, SCSS, GIT, patterns, REST API, maybe some server side stuff too.
+
+## Stack
+* PHP
+* JS
+* HTML
+* CSS
+* MySQL
+
+## Code samples
+
+```javascript
+const deepCopy = obj => {
+  const copy = Object.assign({}, obj)
+  Object.keys(copy).forEach(key => {
+    if (null !== copy[key] && typeof copy[key] === "object")
+      copy[key] = deepCopy(copy[key])
+  })
+  return copy
+}
 ```
-def multiply(a, b):
-a * b
+
+```javascript
+Function.prototype.myBind = function (context) {
+  context.fn = this
+  return (...args) => context.fn(...args)
+}
 ```
-### **Education**
-***
-- [x] *Brest State Technical University Polytechnic College (BGPK)* **graduate**
-- [ ] *Belarusian State University of Informatics and Radioelectronics (BSUIR)*  **1 course**
-### **Courses**
----
-1. **Rolling Scopes School** JS/Front-end developer (stage 1)...
-2. **Sales Manager** in progress...
-### **Level of language**
----
-* Russian (native)
-* English (A2)
+
+## Projects
+[github pages CV](https://elijah-i.github.io/rsschool-cv/cv)
+
+## Work expirience
+15 years of non-commercial programming. Selft educated. unfortunately none of my projects are available atm since they all were deployed on complicated clusters and once they turned down (_when our investor got broke_) all my work gone.
+
+## Education
+secondary education
+
+## English level
+Feel pretty confident. Never pass any test or something so have no idea about official level or whatever... Selft educated.
